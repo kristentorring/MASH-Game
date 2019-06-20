@@ -3,7 +3,7 @@ body {
   background: #F2A1E7;
   color: #FFFFFF;
   font-family: Impact, Arial;
-  font-size: 27px;
+  font-size: 70px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -17,8 +17,7 @@ h1 {
   font-size: 300px;
   color: #46d4ea;
   text-align: center;
-  outline: 10px #FFFFFF;
-}
+  }
 
 
 /* Game Directions */
