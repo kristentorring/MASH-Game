@@ -2,7 +2,7 @@
 body {
   background: #F2A1E7;
   color: #FFFFFF;
-  font-family: Impact, Arial;
+  font-family: Impact;
   font-size: 35px;
   font-weight: 300;
   line-height: 1.65em;
@@ -63,9 +63,9 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  font-family: Helvetica, Arial
-  color: ##000000;
-  font-size: 14px;
+  font-family: Helvetica
+  color: #000000;
+  font-size: 13px;
   margin: 15px 4%;
   outline: 0;
   padding: 16px 0;
