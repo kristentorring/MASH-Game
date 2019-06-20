@@ -19,7 +19,6 @@ h1 {
   text-align: center;
   }
 
-
 /* Game Directions */
 .description {
   text-align: center;
@@ -35,7 +34,7 @@ h1 {
   color: #fff;
   cursor: pointer;
   display: block;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: bold;
   margin: 0 auto 60px;
   padding: 1em 2em;
